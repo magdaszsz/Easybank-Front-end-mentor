@@ -77,6 +77,12 @@ section {
   transform: translateY(-0.25rem);
 }
 
+.btn:focus {
+  outline: none;
+  transform: scale(1.4);
+  background: navy;
+}
+
 /* nav */
 
 nav {
@@ -416,7 +422,7 @@ footer {
   margin: 1.3rem 0;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 670px) {
   .container:not(footer .container) {
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
