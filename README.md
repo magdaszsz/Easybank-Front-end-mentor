@@ -1,7 +1,6 @@
 # Frontend Mentor - Easybank landing page
 
-Built using plain old HTML and CSS. This time I built it mobile first to see how it goes.
-
+<h3>Mobile first, fully responsive. Built with HTML, CSS and a smidgen of JS.</h3>
 https://easybank-front-end-mentor.vercel.app/
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
